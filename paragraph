@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <title>01.1 HTML Tags</title>
+    </head>
+    <body>
+       Paragraph one is the best paragraph of all!
+        
+       <p>Paragraph two is pretty sweet too though!</p>
+        
+      No way! 
+      
+      <p>Paragraph three is definitely the best, no comparison.</p> 
+    </body>
+</html>
